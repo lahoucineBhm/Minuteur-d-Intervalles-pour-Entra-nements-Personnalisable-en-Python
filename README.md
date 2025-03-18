@@ -1,1 +1,1 @@
-# Minuteur-d-Intervalles-pour-Entra-nements-Personnalisable-en-Python
+# Minuteur d'Intervalles pour Entrainements Personnalisable en Python
