@@ -30,7 +30,7 @@ Cette flexibilité permet d'adapter l'outil à divers types d'entraînements, co
    ```
 3. Exécutez le script Python :
    ```bash
-   python timer.py
+   python mini-projet-minuteur.py
    ```
 
 
