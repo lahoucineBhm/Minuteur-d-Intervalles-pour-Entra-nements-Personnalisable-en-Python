@@ -21,8 +21,8 @@ Cette flexibilité permet d'adapter l'outil à divers types d'entraînements, co
 ## Installation
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone https://github.com/votre-utilisateur/minuteur-intervalle.git
-   cd minuteur-intervalle
+   git clone https://github.com/lahoucineBhm/Minuteur-d-Intervalles-pour-Entra-nements-Personnalisable-en-Python.git
+   cd Minuteur-d-Intervalles-pour-Entra-nements-Personnalisable-en-Python
    ```
 2. Installez les dépendances requises :
    ```bash
